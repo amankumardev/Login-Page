@@ -2,9 +2,7 @@
 
 A clean and modern login page built using HTML, CSS, and JavaScript. This page can be used as a starting point for authentication workflows in any front-end project.
 
-![Login Page Preview](preview.png) <!-- Replace with an actual screenshot if available -->
 
----
 
 ## 🚀 Features
 
@@ -25,4 +23,24 @@ A clean and modern login page built using HTML, CSS, and JavaScript. This page c
 ---
 
 ## 📁 Project Structure
+
+Login-Page/
+├── index.html # Main HTML file
+├── style.css # Styling
+├── script.js # JS functionality
+└── README.md # Project documentation
+
+
+
+---
+
+## 🔧 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/amankumardev/Login-Page.git
+cd Login-Page
+
+
 
