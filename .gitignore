@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+register/node_modules/
+Backend/node_modules/
+
+# Environment variables
+.env
+register/.env
+Backend/.env
+
+# Logs
+*.log
+
